@@ -215,3 +215,6 @@ while True:
       remaining -= new_annuity - remaining * new_interest /100
     break
 print('\nОстаток долга:', remaining)
+
+
+# Testing
