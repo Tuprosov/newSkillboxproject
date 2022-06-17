@@ -188,7 +188,11 @@ def mainMenu():
 mainMenu()
 
 
+<<<<<<< HEAD
 
+=======
+# Testing git diff, merge test
+>>>>>>> 01029e99a02c323f4dd05d42c43fb4ec61984a34
 # shahzod testing git branches
 # konflikt versiy 01
 # conflict of versions 01
