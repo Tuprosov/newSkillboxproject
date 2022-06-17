@@ -1,4 +1,4 @@
-# task 1
+§# task 1
 
 def summa_n():
   number = int(input('введите число: '))
@@ -190,3 +190,5 @@ mainMenu()
 
 # Testing git diff
 # shahzod testing git branches
+# konflikt versiy 01
+
