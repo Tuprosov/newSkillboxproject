@@ -190,9 +190,4 @@ mainMenu()
 
 # Testing git diff
 # shahzod testing git branches
-<<<<<<< HEAD
-# konflikt versiy 01
-
-=======
 # conflict of versions 01
->>>>>>> ee37a1b756cfcbfabb90a658945fac062db2ffe2
