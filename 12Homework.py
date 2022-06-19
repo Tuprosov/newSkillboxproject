@@ -188,7 +188,5 @@ def mainMenu():
 mainMenu()
 
 # testing stash
-
-# Testing git diff
 # testing new file
 
