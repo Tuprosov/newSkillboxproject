@@ -217,6 +217,6 @@ while True:
 print('\nОстаток долга:', remaining)
 
 
-# testing new branch
+
 # some codes added
 # branch test
